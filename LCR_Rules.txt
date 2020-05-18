@@ -1,0 +1,20 @@
+LCR Rules
+
+This game requires at least three players with no upper limit.
+
+The goal of the game is to collect every chip.
+
+Every player will begin the game with three chips
+The player rolls a die for each chip they have up to a total of three.
+
+The sides of each die contain L, C, R, and dots on the last three sides.
+These values determine where the current player's chips will go.
+-For each L, one chip is passed to the player on the left.
+-For each R, one chip is passed to the player on the right.
+-For each C, one chip is placed into the center and taken out of play.
+-Dots do not require any action to be taken
+
+If the player runs out of chips they can still have chips passed to them,
+but pass the dice to the next player when it is their turn.
+
+The game is over when only one person possesses chips.
